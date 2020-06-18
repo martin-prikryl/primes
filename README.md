@@ -1,2 +1,2 @@
 # Primes generator in Python
-Infinite primes generator using Sieve of Eratosthenes (https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+Simple primes generator using Sieve of Eratosthenes (https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
